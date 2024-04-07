@@ -9,8 +9,9 @@ export default {
       fontFamily:{
         Roboto: ['Roboto','sans-serif'],
       },
-        colors : {
+        colors: {
           'firstColor' : '#9eeacd',
+          
           'primaryColor': {
             50 : 'EDFCF6',
             100 : '#d4f7e8',
@@ -22,7 +23,7 @@ export default {
             700 : '0D6F5B',
             800 : '#0d5849',
             900 : '0B493D',
-            950 : '#052923',
+            950 : '#052923'
           }
         },
     },
