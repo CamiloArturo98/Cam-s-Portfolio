@@ -2,8 +2,8 @@
 function App() {
 
   return (
-<div className=" flex justify-center items-center w-screen h-screen font-Roboto bg-firstColor">
-  <h1 className=" bg-primaryColor-200 text-green-800">
+<div className=" flex justify-center items-center w-screen h-screen font-Roboto font-bold bg-primary-color-600">
+  <h1 className="text-white">
     Hello world!
   </h1>
 </div>
