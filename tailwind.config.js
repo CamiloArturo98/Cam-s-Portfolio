@@ -8,6 +8,7 @@ export default {
     extend: {
       fontFamily:{
         Roboto: ['Roboto','sans-serif'],
+      },
         colors : {
           'firstColor' : '#9eeacd',
           'primaryColor': {
@@ -24,7 +25,6 @@ export default {
             950 : '#052923',
           }
         },
-      },
     },
   },
   plugins: [],
